@@ -3,23 +3,25 @@ b = int(input("Enter first number: "))
 
 n = int(input("Enter 1-Addition, 2-Subtraction, 3-Multiplication, 4-Division: "))
 
-
+def multiplication(a, b):
+    c = a*b
+    return c
 
 if n == 1:
     print("Result: ")
-    addition(a,b)
+    print(addition(a,b))
     #Charitha code
 elif n == 2:
     print("Result: ")
-    subtraction(a,b)
+    print(subtraction(a,b))
     #Mudit code
 elif n == 3:
     print("Result: ")
-    multiplication(a,b)
+    print (multiplication(a,b))
     #Sarthak code
 elif n == 4:
     print("Result: ")
-    division(a,b)
+    print(division(a,b))
     #Yash code
 else:
     print("Invalid input")
