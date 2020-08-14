@@ -1,7 +1,7 @@
+n = int(input("Enter 1-Addition, 2-Subtraction, 3-Multiplication, 4-Division: "))
+
 a = int(input("Enter first number: "))
 b = int(input("Enter first number: "))
-
-n = int(input("Enter 1-Addition, 2-Subtraction, 3-Multiplication, 4-Division: "))
 
 def multiplication(a, b):
     c = a*b
