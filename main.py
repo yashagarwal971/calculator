@@ -5,19 +5,22 @@ n = int(input("Enter 1-Addition, 2-Subtraction, 3-Multiplication, 4-Division: ")
 
 def multiplication(a, b):
     c = a*b
-    return c
+    return c;
 def subtraction(a,b)
     c= a-b
-    return c
+    return c;
      
 def add_num(a,b):
     sum=a+b;
     return sum;
+
+def division(a,b)
+division = a/b
+return division;
+
 if n == 1:
     print("Result: ")
     print(addition(a,b))
- 
-
 elif n == 2:
     print("Result: ")
     print(subtraction(a,b))
