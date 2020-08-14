@@ -10,7 +10,11 @@ def multiplication(a, b):
 if n == 1:
     print("Result: ")
     print(addition(a,b))
-    #Charitha code
+      
+def add_num(a,b):
+    sum=a+b;
+    return sum;
+
 elif n == 2:
     print("Result: ")
     print(subtraction(a,b))
