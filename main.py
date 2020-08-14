@@ -9,7 +9,7 @@ def multiplication(a, b):
 def subtraction(a,b)
     c = a-b
     return c;
-def addtion(a,b):
+def additon(a,b):
     sum = a+b;
     return sum;
 def division(a,b)
