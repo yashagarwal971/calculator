@@ -12,7 +12,7 @@ def subtraction(a,b):
 def additon(a,b):
     sum = a+b;
     return sum;
-def division(a,b)
+def division(a,b):
     division = a/b
     return division;
 
