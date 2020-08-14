@@ -7,20 +7,19 @@ def multiplication(a, b):
     c = a*b
     return c;
 def subtraction(a,b)
-    c= a-b
+    c = a-b
     return c;
-     
-def add_num(a,b):
-    sum=a+b;
+def addtion(a,b):
+    sum = a+b;
     return sum;
-
 def division(a,b)
-division = a/b
-return division;
+    division = a/b
+    return division;
 
 if n == 1:
     print("Result: ")
     print(addition(a,b))
+    #Charitha code
 elif n == 2:
     print("Result: ")
     print(subtraction(a,b))
