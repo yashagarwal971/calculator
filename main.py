@@ -6,7 +6,7 @@ n = int(input("Enter 1-Addition, 2-Subtraction, 3-Multiplication, 4-Division: ")
 def multiplication(a, b):
     c = a*b
     return c;
-def subtraction(a,b)
+def subtraction(a,b):
     c = a-b
     return c;
 def additon(a,b):
