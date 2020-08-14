@@ -9,13 +9,14 @@ def multiplication(a, b):
 def subtraction(a,b)
     c= a-b
     return c
-if n == 1:
-    print("Result: ")
-    print(addition(a,b))
-      
+     
 def add_num(a,b):
     sum=a+b;
     return sum;
+if n == 1:
+    print("Result: ")
+    print(addition(a,b))
+ 
 
 elif n == 2:
     print("Result: ")
